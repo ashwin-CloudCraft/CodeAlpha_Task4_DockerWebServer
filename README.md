@@ -3,11 +3,8 @@
 CodeAlpha DevOps Internship Task 4 – Docker Web Server
 
 ✅ Task 4: Docker Web Server
-🔧 What You Did:
-Created a Docker container using the Nginx base image
 
 Added a custom index.html page with:
-
 html
 Copy
 Edit
